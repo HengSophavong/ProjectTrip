@@ -1,0 +1,60 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Jost-Book";
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  height: 100vh;
+  justify-content: center;
+}
+
+.place {
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+  color: #398AB9;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.container .card {
+  height: 320px;
+  width: 300px;
+  margin: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.item {
+  background-color: rgb(252, 252, 252);
+  border-radius: 10px;
+  width: 250px;
+  height: 290px;
+}
+
+.city {
+  padding-top: 20px;
+  margin-left: 20px;
+  color: rgb(255, 255, 255);
+}
+
+.container .card .item:hover {
+  transform: scale(1.1);
+}
+  
