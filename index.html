@@ -78,59 +78,41 @@
             </div>
         </div>
         <!--Popular Place-->
-        <div class="popular-place">
-            <h1 class="place text-left">Popular Place</h1>
-
+        <section>
+            <h1 class="title">popular place</h1>
             <div class="container">
-                <div class="card">
-                    <a href="#">
-                        <div class="item " id="item-1" src="img/1.jpg">
-                            <h3 class="city">Phnom Penh</h3>
-                        </div>
-                    </a>
+                <div class="item one" id="0">
+                    <h1 class="country_name">Siem Reap</h1>
+                    
+                    
                 </div>
-
-                <div class="card">
-                    <a href="#">
-                        <div class="item" id="item-2" src="img/2.jpg">
-                            <h3 class="city">Siem Reap</h3>
-                        </div>
-                    </a>
+                <div class="item two" id="1">
+                    <h1 class="country_name">Kom Pot</h1>
+                    
+                    
                 </div>
-
-                <div class="card">
-                    <a href="#">
-                        <div class="item" id="item-3" src="img/3.jpg">
-                            <h3 class="city">Sihanoukville</h3>
-                        </div>
-                    </a>
+                <div class="item three" id="2">
+                    <h1 class="country_name">Phnom Penh</h1>
+                    
+                    
                 </div>
-
-                <div class="card">
-                    <a href="#">
-                        <div class="item" id="item-4" src="img/4.jpg">
-                            <h3 class="city">Kampot</h3>
-                        </div>
-                    </a>
+                <div class="item four" id="3">
+                    <h1 class="country_name">Posat </h1>
+                    
+                    
                 </div>
-
-                <div class="card">
-                    <a href="#">
-                        <div class="item" id="item-5" src="img/5.jpg">
-                            <h3 class="city">Kep</h3>
-                        </div>
-                    </a>
+                <div class="item five" id="4">
+                    <h1 class="country_name">Kompong Som</h1>
+                    
                 </div>
-
-                <div class="card">
-                    <a href="#">
-                        <div class="item" id="item-6" src="img/6.jpg">
-                            <h3 class="city">Posat</h3>
-                        </div>
-                    </a>
+                <div class="item six" id="5">
+                    <h1 class="country_name">Kep</h1>
+                    
+                    
                 </div>
+               
             </div>
-        </div>
+        </section>
 <!--How It Work start-->
     <div class="nc-SectionHowItWork  " data-nc-id="SectionHowItWork">
         <div
@@ -179,7 +161,73 @@
     <!--How It Work End-->
 </div>
 </body>
-
+<style>
+    *{
+        padding: 0;
+        margin:0;
+        box-sizing: border-box;
+    }
+    section{
+        height: 100vh;
+        display: grid;
+        grid-template-rows:70px 1fr;
+        justify-content: center;
+        color: black;
+    }
+    h1{
+        font-size: 20px;
+    }
+    .title{
+        color: black;
+        margin-top: 20px;
+    }
+    .container{
+        display: grid;
+        grid-template-columns:250px 250px 250px;
+        gap: 50px;
+        margin-bottom: 50px;
+    }
+    .item{
+        background-color: antiquewhite;
+        border-radius: 10px;
+        background-position: center;
+        background-size: cover;
+        
+      
+    }
+    .country_name{
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+    .city_name{
+        margin-left: 20px;
+        margin-top: 180px;
+    }
+    h3{
+        font-size: 15px;
+        margin-left: 20px;
+    }
+    .one{
+        background-image: url(./img/place-cover/sr.jpg);
+    }
+    .two{
+        background-image: url(./img//place-cover/kp.jpg);
+    }
+    .three{
+        background-image: url(./img/place-cover/pp.jpg);
+    }
+    .four{
+        background-image: url(./img/place-cover/ps.jfif);
+    }
+    .five{
+        background-image: url(./img/place-cover/kps.jpg);
+    }
+    .six{
+         background-image: url(./img/place-cover/kep.jpg);
+    }
+</style>
+<script src="./script.js" async></script>
+</head>
 <script>
     const btn = document.querySelector("button.mobile-menu-button");
     const menu = document.querySelector(".mobile-menu");

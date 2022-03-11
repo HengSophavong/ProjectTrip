@@ -1,0 +1,240 @@
+[
+    {
+        "name":"Welcome To Siem Reap",
+        "main_img":"img/place-cover/sr.jpg",
+        "main_detail":"Siem Reap is thriving. This is Cambodia's number one tourism destination, the grand temples of the Angkorian period sitting right on its doorstep. Everyone who arrives is here to see Angkor Wat, but the town's burgeoning popularity with travelers has led to a whole host of other attractions and activities opening up, providing some downtime from temple-hopping.Learn about the best places to visit and the most rewarding things to do here with our list of the top attractions in Siem Reap",
+        "main_id":0,
+        "activity":[
+            "Siem Reap's energetic and forever expanding tourist industry is all down to the fact that one of the world's most incredible tourist attractions sits next door.The main temple complex within the site is Angkor Wat.After Angkor Wat, head to the sprawling 10-square-kilometer Angkor Thom complex, where you'll find one of the most photogenic temples in the site.",
+            "Hiring your own transport is a great way to explore the surrounding countryside. You can rent a bicycle for $3-5 a day or a motorbike for $8 or $10 a day. You can tour around Siem Reap city, Explore the history and nature for a full day. Grab some drink and fruit for energy for the long day.",
+            "Phare Ponleu Selpak is a dazzling spectacle combining acrobatics, music, dance, circus slapstick, and a variety of other performance arts, and it's also for a good cause. This is a contemporary circus, with a story weaved through the performance, combining drama and comedy all into one show.",
+            "The central city area is home to some of the best souvenir shopping you'll find in the country, with both market stalls for great bargains and a whole host of plush boutiques for special gifts.",
+            "The feeling of suspense awaiting the first light of the new day gradually shines behind the temples, the beauty of nature combined with spiritual architecture gives you an indescribable feeling. Don’t forget the sunset view at Ta prohm temple and Angkor wat."
+        ],
+        "activity_img":["./img/to-do/sr-thing-1-01.jpg",
+                        "./img/to-do/sr-thing-2-01.jpg",
+                        "./img/to-do/sr-thing-3-01.jpg",
+                        "./img/to-do/sr-thing-4-01.png",
+                        "./img/to-do/sr-thing-5-01.jpg"
+                    ],
+        "resturant":[
+            "Street food around Angkor Wat",
+            "Local food at Beong Chhouk Bonteay Srey",
+            "Nom banh jok tek prohok",
+            "Chicken with rice at Angkor",
+            "Phnom kulen-eat lunch with nature"
+        ],
+        "hotel_name":[
+            "Angkor village resort",
+            "Courtyard by Marriott SR resort",
+            "Baby elephant boutique hotel",
+            "Lud d",
+            "The Twizt"
+        ],
+        "hotel":[
+           "https://goo.gl/maps/Nkxt25TN33wmtNd16",
+           "https://goo.gl/maps/c2zdWSPGhqmnQWeV8",
+            "https://goo.gl/maps/C9zMSBeEzZzfpfwV7",
+            "https://goo.gl/maps/Q81qWJXofBn7mEAx7",
+           "https://goo.gl/maps/jr3dkEeU4kcmSdXN6" 
+        ],
+        "review_img":"./img/review/SR.jpg"
+    
+     },
+    {
+        "name":"Welcome to Kom Pot",
+        "main_img":"./img/place-cover/kp.jpg",
+        "main_detail":"Kampot sits near the base of the abundant green Elephant Mountains and the famous Bokor Hill Station. Compete to crowded Sihanoukville in the North of the province you may find quietness.",
+        "main_id":1,
+        "activity":[
+           "Bokor Hill is the main attraction in and around Kampot. Bokor hill station was built by the French as a high-altitude complement to the fashionable seaside resort of Kep across the bay. Both are now faded and crumbling in a very atmospheric fashion.",
+           "are offering Zipline, Rope tree, Floating Bar, boating, water games, sky bungalow and more. The River Park gives Cambodians a unique opportunity to try out ziplining in a fun and safe environment while not having to empty their pockets.",
+           "stayed in town but loved spending afternoons at the beautiful, serene GreenHouse Guesthouse for lunch, kayaking, stand up paddle boarding, and swimming off their beach. This is definitely one of the best Kampot activities.",
+           "In Kampot province it's the popular place for Cambodian people for visiting.The waterfall is easily accessible from Kampot and as such it makes for an excellent spot to visit if you're looking to go beyond the town itself. The best time to visit Tada Waterfalls is during the rainy season because the waterfall will be in full flow,however the road will be a bit slippery if there is heavy rain.",
+           "Kampot is the land of salt and pepper. The salt fields are just outside of town. Salt water is brought from the sea 5km away into prepared clay fields and left to evaporate until salt crystals form. At sunrise it was a stunning place."
+        ],
+        "activity_img":[
+            "./img/to-do/kp-thing-1-01.jpg",
+            "./img/to-do/kp-thing-2-01.jpg",
+            "./img/to-do/kp-thing-3-01.jpg",
+            "./img/to-do/kp-thing-4-01.jpg",
+            "./img/to-do/kp-thing-5-01.jpg"
+        ],
+        "resturant":[
+            "Epic Arts Cafe",
+            "Divino",
+            "Ecran Noodle Shop",
+            "Rikitikitavi",
+            "Crab rice"
+        ],
+        "hotel_name":[
+            "Moly Resort",
+            "Sabay Beach",
+            "Nataya RoundHouses",
+            "Raing Phnom Bungalow",
+            "Eden eco village"
+        ],
+        "hotel":[
+          "https://goo.gl/maps/xJZzAjb8dcghh9sN8",
+          "https://goo.gl/maps/BytTZ8kGGBMTvhrD6",
+          "https://goo.gl/maps/WiKVWsjyMdCtRPMJ8",
+          "https://goo.gl/maps/4PxD5ys1bCX5oWHi6",
+          "https://goo.gl/maps/3Ncp2K24PiEMrw39A"
+        ],
+        "review_img":"./img/review/KP.jpg"
+    },
+    {
+        "name":"Welcome To Phnom Penh",
+        "main_img":"./img/place-cover/PP_cover.jpg",
+        "main_detail":"Phnom Penh is the heartbeat of Cambodia. This sprawling capital, spread out beside the banks of both the Tonlé Sap and Mekong Rivers, is a city of wide central boulevards and skinny back alleys, where modern and old collide.The Royal Palace complex is the city's must-do, but for anyone interested in exploring Cambodia's 20th-century history, Phnom Penh is also a vital stop, for it is home to two of the country's most sobering sites.",
+        "main_id":2,
+        "activity":[
+            "The highlight of Phnom Penh is the beautiful Royal Palace the seat and residence of Cambodia's royal family since the 1860s. The spired-roof pavilions of the complex are an excellent example of classic Khmer architecture. Both the Throne Hall area and the Silver Pagoda set within manicured gardens  are open to the public for visiting",
+            "The traditional Khmer building that houses the national collection. Inside, the dazzling array of ancient Khmer artistry, with more than 1,800 objects on display, is a must visit for anyone with an interest in Cambodian history.",
+            "one of the most relaxing ways to go sightseeing in the city is to take to the water. There are regular sunset cruise tourist boat departures from the riverfront between 5pm and 7.30pm, which head along the Tonlé Sap and Mekong Rivers.",
+            "Phnom Penh is decidedly flat. The only rise in the landscape here is the 27-meter-high hillock that is home to the temple of Wat Phnom. The first religious building on this spot is thought to have been constructed in the 14th century and has been rebuilt several times. This is one of the city's most important Buddhist temples and is often bustling with locals leaving offerings here and praying at the various shrines that surround the main sanctuary.",
+            "The distinctive domed building that holds the central Psar Thmei market was built in Art Deco style and dominates Phnom Penh's central city. There are excellent opportunities for soaking up a slice of local life here with the market's huge array of local produce on display and plenty of hustle and bustle.Everything is sold here."
+        ],
+        "activity_img":[
+            "./img/to-do/pp-thing-1-01.jpg",
+            "./img/to-do/pp-thing-2-01.jpg",
+            "./img/to-do/pp-thing-3-01.jpg",
+            "./img/to-do/pp-thing-4-01.jpg",
+            "./img/to-do/pp-thing-5-01.jpg"
+        ],
+        "resturant":["One more resturant",
+                     "Eleven on kitchen",
+                     "Brown coffee",
+                     "Mails resturant",
+                     "street food"],
+        "hotel_name":[
+            "Okay boutique hotel",
+            "Sun and moon urban hotel",
+            "Home chic hotel",
+            "Larimar hotel & resort",
+            "Hm grade central hotel"
+        ],             
+        "hotel":[
+            "https://goo.gl/maps/Mbbchiqf38R72Jxr8",
+            "https://goo.gl/maps/XMCvjahGtow6pyVB6",
+            "https://goo.gl/maps/merA2T8Ztpg3QPvy7",
+            "https://goo.gl/maps/4trSR9LLmmTPCMr28",
+            "https://goo.gl/maps/p3wfw1v1GQmjhqfS8"
+        ],
+        "review_img":"./img/review/PP.jpg"
+    },
+    {
+        "name":"Welcome to Posat-Phnom 1500 ",
+        "main_img":"./img/place-cover/ps.jfif",
+        "main_detail":"Are you looking for mountains? Here you go:Phnom 1500 is located in Veal Veng District, Pursat province and about ~150km away from Sampov Meas Island. The long road trip surrounded by the mountains, the best place to release all the stress,and best for camping.",
+        "main_id":3,
+        "activity":[
+          "Phnom 1500 is in the category of the Mountain, Natural tourism site. Things to do, as well as the attractions of Phnom 1500 for tourists such as Seeing mountain view, Viewing sunset, Viewing sunrise, Having picnic, Trekking and more.",
+          "Tmor Da Toch Waterfall is in the category of the Waterfall, Natural tourism site. Things to do, as well as the attractions of Tumor Da Toch Waterfall for tourists such as Having picnic, Swimming, Seeing mountain view and more",
+          "have a coffee with the freshies view at Phnom coffee. Coffee shop on the mountains, the nature view and tasty drink. Don't forget here",
+          "for those who want to experience camping, you can try here at bong barang. You will love the mountain view and the greatest camping place."
+        ],
+        "activity_img":[
+            "./img/to-do/Ps-thing-1-02.jpeg",
+            "./img/to-do/Ps-thing-2-01.jpg",
+            "./img/to-do/Ps-thing-3-01.jfif",
+            "./img/to-do/ps-thing-4-01.jpg"
+        ],
+        "resturant":[
+           "For a relaxing seating area, Phnom 1500 is not yet set up a seating area for tourists. Besides Phnom 1500 has canteens but for the food ordering or food station and restaurant are not exist."
+        ],
+        "hotel_name":[
+            "Bopha Leak Klun",
+            "Bong Barang"
+        ],
+        "hotel":[
+            "https://goo.gl/maps/PQNYtFsNyjFuwggn7",
+            "https://goo.gl/maps/ZWZawsnZHpGBCver5"
+        ],
+        "review_img":"./img/review/PS.jpg"
+    },
+    {
+        "name":"Welcome to Kompong Som",
+        "main_img":"./img/place-cover/kps.jpg",
+        "main_detail":"There's quite a lot of variety among the things to do in Sihanoukville. The coastal town is famous for having some of the best beaches in Cambodia, making it the getaway destination of choice for the city dwellers of Phnom Pehn. The beaches are many and the nightlife is vibrant. These elements combine to make Sihanoukville a popular place for people visiting the country.",
+        "main_id":4,
+        "activity":[
+            "If you like the beaches, you'll love Koh Rong and the surrounding islands. Just 26 km west of the city, they are pretty much the archetype of the desert island idyll, with pristine beaches, clear blue seas, vibrant coral reefs, jungle-covered hills and very little else.",
+            "Koh Rong Samloem is Koh Rong's stunning sister island. It is a peaceful relaxing destination with breathtaking scenery – Pristine white beaches, clear turquoise ocean waters, and a tropical jungle wilderness.",
+            "Otres Beach has a relaxed atmosphere, and caught the eye of Forbes this year, listed amongst the Top 22 Beaches in Asia. Most all of the beach restaurants serve seafood and more, but each place has its own unique flavor.",
+            "Snorkelling and scuba diving in Sihanoukville thrives because of the area's favourable topographical features. Offshore local waters are warm and the visibility is low but it is better to dive out by neighbouring islands and Condor Reef as visibility is superior there.",
+            "Tropical reefs, amazing sunset views and white private sandy beaches feature at Song Saa Private Island, spanning over Koh Ouen and Koh Bong islands in Sihanoukville."
+        ],
+        "activity_img":[
+            "./img/to-do/kps-thing-1-01.jpg",
+            "./img/to-do/kps-thing-2-01.jpg",
+            "./img/to-do/kps-thing-3-01.jpg",
+            "./img/to-do/kps-thing-4-01.jpg",
+            "./img/to-do/kps-thing-5-01.jpg"
+        ],
+        "resturant":[
+            "Starfish Bakery & Cafe",
+            "Sandan",
+            "Jin",
+            "Rendez vous restaurant",
+            "The secret garden bar & resturant"
+        ],
+        "hotel_name":[
+            "Ocean Delight Boutique Hotel",
+            "Queenco Hotel Casino",
+            "Independence Hotel By Dara",
+            "The One Resort",
+            "Luna Resort Koh Rong"
+        ],
+        "hotel":[
+           "https://goo.gl/maps/HPtBz4gLgQsp6Xbr7",
+           "https://goo.gl/maps/CgoatPp3PK9zoDnQ8",
+           "https://goo.gl/maps/WfzKKib2MzkoTrim9",
+           "https://goo.gl/maps/WHBvVTvVUSxVhLVZ7",
+           "https://goo.gl/maps/J2JzkMgL1UnRyyvRA"
+        ],
+        "review_img":"./img/review/KPS.jpg"
+    },
+    {
+        "name":"Welcome to Kep",
+        "main_img":"./img/place-cover/kep.jpg",
+        "main_detail":"Kep appears to be experiencing something of a renaissance, with several mid-range and luxury guesthouses and bungalows. The seafood is cheap, plentiful and delicious - particularly the quite famous crabs. Kep is also home to an extensive national park covering some mountains with deep green jungle.",
+        "main_id":5,
+        "activity":[
+           "The short stretch of imported white sand that makes up Kep beach is a popular spot during public holidays and weekends, filling up with Cambodians wading in the shallow waters or picnicking on crab and other snacks in the dappled shade.",
+           "For a slice of rustic island life, jump on one of the former fishing boats that takes visitors to the nearby island within about 30 minutes and spend the day – or night – on Koh Tonsay, or Rabbit Island. Boasting a small beach lined with basic bungalows and food shacks, this spot is a popular day-trip for locals.",
+           "No trip to Kep is complete without a visit to the crab market. Standing at the centre of the town’s action, the market is a hive of activity, especially in the early morning. As well as being the base for the fishermen and women who catch the town's famous crab, it is where the country's freshest seafood is flogged.",
+           "Sundowners at Knai Bang Chatt's Sailing Club are another essential for any trip to Kep. Overlooking the ocean, the former fisherman’s hut – that has been transformed into an upmarket chic hangout and water sports centre is the spot to watch the sunset with a classy cocktail in one hand.",
+           "The Led Zep Cafe is a nice cafe with a friendly atmosphere. It is the only restaurant located directly at the Kep National Park trek. The cafe, located above Vanna bungalows, has an open air balcony with a 180 degree view over Kep and the Gulf of Thailand. "
+        ],
+        "activity_img":[
+            "./img/to-do/kep-thing-1-01.jpg",
+            "./img/to-do/kep-thing-2-01.jpeg",
+            "./img/to-do/kep-thing-3-01.jpg",
+            "./img/to-do/kep-thing-4-01.jpg",
+            "./img/to-do/kep-thing-5-01.jpg"
+        ],
+        "resturant":[
+            "Veranda nature resort",
+            "Sailing club-knai bang chat",
+            "Holy crab",
+            "Kimly seafood restuarant",
+            "Mr Mab"
+        ],
+        "hotel_name":[
+            "Kep Bay Hotel & Resort",
+            "Botanica",
+            "Kep lodge",
+            "Sabay kep",
+            "Kep Bungalow"
+        ],
+        "hotel":[
+            "https://goo.gl/maps/5ryZq21LGohyF8QW9",
+            "https://goo.gl/maps/jW1eM82FAGg9ECWo8",
+            "https://goo.gl/maps/o4Xu6jLVTY4VMkJ67",
+            "https://goo.gl/maps/6RuN1wkvmTXtbUXZ8",
+            "https://goo.gl/maps/yYTAJdUQTfhPGVmH9"
+        ],
+        "review_img":"./img/review/Kep.jpg"
+    }
+]

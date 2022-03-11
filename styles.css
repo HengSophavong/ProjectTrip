@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300&family=Pacifico&family=Patrick+Hand&display=swap');
+:root{
+    --pri_font: 'Pacifico', cursive;
+    --sec-font:'Patrick Hand', cursive;
+}
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+/* Main section */
+.main{
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 300px 1fr;
+}
+h1{
+    font-family: var(--pri_font);
+}
+.cover{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+    background-size: cover;
+    font-size: 30px;
+    line-height: 1.5;
+}
+.review{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 0 100px;
+}
+.picture{
+    width: 350px;
+    height: 350px;
+    border-radius: 49% 51% 58% 42% / 69% 51% 49% 31%  ;
+    background: pink;
+    justify-self: center;
+    align-self: center;
+    background-repeat: none;
+    background-position: center;
+    background-size: cover;
+}
+.text{
+    line-height: 1.5;
+}
+.title{
+    color: white;
+    text-shadow: 2px 2px 8px black;
+}
+.text_title{
+    text-align: center;
+    font-family: var(--pri_font);
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.text_detail{
+    text-indent: 100px;
+    font-family: var(--sec-font);
+}
+/* second section call center*/
+.center{
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+}
+.thing_to_do{
+    display: grid;
+    grid-template-rows: 70px 1fr;
+    position: relative;
+}
+.thing_to_do h1{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.slide{
+    display: flex;
+    flex-direction: row;
+    
+}
+.caption{
+    flex: 1;
+    margin-left: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.caption p{
+    margin-left: 100px;
+}
+.slide_pic{
+    flex:1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 100px;
+}
+.slide_img{
+    width: 350px;
+    height: 350px;
+    border-radius: 49% 51% 58% 42% / 69% 51% 49% 31%  ;
+    background-color: pink;
+    background-position: center;
+    background-size: cover;
+    margin-top: 20px;
+}
+button{
+    color: white;
+    background: black;
+    border: none;
+    outline: none;
+    font-size: 30px;  
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+}
+.next{
+    position: absolute;
+    top: 200px;
+    right: 50px;
+}
+.beck{
+    position: absolute;
+    top: 200px;
+    left: 50px;
+}
+.food h1{
+    font-family: var(--pri_font);
+    margin-left: 100px;
+    margin-top: 20px;
+}
+ul{
+    margin-left: 550px;
+    margin-right: 100px;
+    list-style-type:decimal-leading-zero;
+}
+ul li{
+    font-size: 25px;
+    line-height: 1.5;
+    font-family: var(--sec-font);
+}
+/*Last section of the website*/
+.last{
+    height: 500px;
+    display: grid;
+    grid-template-rows: 70px 1fr;
+}
+.last h1{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.list{
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    justify-self: center;
+}
+.item{
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    background: rgb(97, 166, 231);
+    justify-content: center;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    
+}
+.item:first-child{
+    margin-top: 50px;
+}
+.item h1{
+    flex: 1;
+    margin-top: 0;
+    font-size: 20px;
+    font-family: var(--sec-font);
+    justify-self: center;
+    align-self: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.item_btn{
+    width:100px;
+    height: 30px;
+    float: right;
+    font-size: 10px;
+    margin-right: 20px;
+    padding: 0;
+    justify-self: center;
+    align-self: center;
+}
